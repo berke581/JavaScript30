@@ -4,7 +4,7 @@ This repo contains my solutions to [JavaScript30 course](https://github.com/wesb
 
 
 ## Checklist
-- [ ] Day 1 - Javascript Drum  
+- [X] Day 1 - [Javascript Drum](https://github.com/berke581/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)  
 - [ ] Day 2 - CSS + JS Clock  
 - [ ] Day 3 - Playing With CSS Variables and JS  
 - [ ] Day 4 - Array Cardio Day 1  
