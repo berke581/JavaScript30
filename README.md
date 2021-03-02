@@ -5,7 +5,7 @@ This repo contains my solutions to [JavaScript30 course](https://github.com/wesb
 ## Checklist
 
 - [x] Day 1 - [Javascript Drum](https://github.com/berke581/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
-- [x] Day 2 - CSS + JS Clock
+- [x] Day 2 - [CSS + JS Clock](https://github.com/berke581/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
 - [ ] Day 3 - Playing With CSS Variables and JS
 - [ ] Day 4 - Array Cardio Day 1
 - [ ] Day 5 - Flex Panels Image Gallery
