@@ -10,7 +10,7 @@ This repo contains my solutions to [JavaScript30 course](https://github.com/wesb
 - [x] Day 4 - [Array Cardio Day 1](https://github.com/berke581/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
 - [x] Day 5 - [Flex Panels Image Gallery](https://github.com/berke581/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
 - [x] Day 6 - [Ajax Type Ahead](https://github.com/berke581/JavaScript30/tree/master/06%20-%20Type%20Ahead)
-- [ ] Day 7 - Array Cardio Day 2
+- [x] Day 7 - [Array Cardio Day 2](https://github.com/berke581/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
 - [ ] Day 8 - Fun With HTML5 Canvas
 - [ ] Day 9 - 14 Must Know Dev Tool Tricks
 - [ ] Day 10 - Hold Shift to Check Multiple Checkboxes
