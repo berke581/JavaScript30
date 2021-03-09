@@ -8,7 +8,7 @@ This repo contains my solutions to [JavaScript30 course](https://github.com/wesb
 - [x] Day 2 - [CSS + JS Clock](https://github.com/berke581/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
 - [x] Day 3 - [Playing with CSS Variables and JS](https://github.com/berke581/JavaScript30/tree/master/03%20-%20CSS%20Variables)
 - [x] Day 4 - [Array Cardio Day 1](https://github.com/berke581/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
-- [ ] Day 5 - Flex Panels Image Gallery
+- [x] Day 5 - [Flex Panels Image Gallery](https://github.com/berke581/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
 - [ ] Day 6 - Ajax Type Ahead
 - [ ] Day 7 - Array Cardio Day 2
 - [ ] Day 8 - Fun With HTML5 Canvas
