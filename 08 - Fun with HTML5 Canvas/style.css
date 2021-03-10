@@ -1,0 +1,53 @@
+html,
+body {
+  margin: 0;
+  background: #efefef;
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 2em;
+}
+
+.menu-item {
+  margin: 0.5em;
+}
+
+#draw {
+  background: #555555;
+  outline: 2px solid black;
+}
+
+.btn-clear {
+  font-size: medium;
+  font-weight: bold;
+  border: none;
+  border-radius: 0px;
+  outline: none;
+  background: gray;
+  padding: 0px 2em;
+}
+
+.btn-clear:hover {
+  background: rgb(158, 158, 158);
+}
+
+.btn-clear:focus {
+  outline: 2px solid black;
+}
+
+.btn-clear:active {
+  outline: 5px solid rgba(20, 20, 20, 0.3);
+}

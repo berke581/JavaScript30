@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>HTML5 Canvas</title>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="menu-container">
+        <span class="menu-item">
+          <label for="backgroundCol">Background: </label>
+          <input
+            id="backgroundCol"
+            type="color"
+            name="backgroundCol"
+            value="#555555"
+        /></span>
+        <span class="menu-item">
+          <label for="brushCol">Brush Color: </label>
+          <input id="brushCol" type="color" name="brushCol" value="#FFFFFF"
+        /></span>
+        <span class="menu-item">
+          <label for="size">Size: </label>
+          <input id="size" type="range" name="size" min="1" max="50" value="5"
+        /></span>
+        <button class="btn-clear">Clear</button>
+      </div>
+
+      <canvas id="draw" width="800" height="600"></canvas>
+    </div>
+
+    <script src="./index.js"></script>
+  </body>
+</html>
