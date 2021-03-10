@@ -13,7 +13,7 @@ This repo contains my solutions to [JavaScript30 course](https://github.com/wesb
 - [x] Day 7 - [Array Cardio Day 2](https://github.com/berke581/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
 - [x] Day 8 - [Fun With HTML5 Canvas](https://github.com/berke581/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
 - [x] Day 9 - [14 Must Know Dev Tool Tricks](https://github.com/berke581/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination)
-- [ ] Day 10 - Hold Shift to Check Multiple Checkboxes
+- [x] Day 10 - [Hold Shift to Check Multiple Checkboxes](https://github.com/berke581/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
 - [ ] Day 11 - Custom HTML5 Video Player
 - [ ] Day 12 - Key Sequence Detection (KONAMI CODE)
 - [ ] Day 13 - Slide In on Scroll
