@@ -17,7 +17,7 @@ This repo contains my solutions to [JavaScript30 course](https://github.com/wesb
 - [x] Day 11 - [Custom HTML5 Video Player](https://github.com/berke581/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
 - [X] Day 12 - [Key Sequence Detection (KONAMI CODE)](https://github.com/berke581/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection)
 - [X] Day 13 - [Slide In on Scroll](https://github.com/berke581/JavaScript30/tree/master/13%20-%20Slide%20in%20on%20Scroll)
-- [ ] Day 14 - Object and Arrays - Reference VS Copy
+- [X] Day 14 - [Object and Arrays - Reference VS Copy](https://github.com/berke581/JavaScript30/tree/master/14%20-%20JavaScript%20References%20VS%20Copying)
 - [ ] Day 15 - LocalStorage and Event Delegation
 - [ ] Day 16 - CSS Text Shadow Mouse Move Effect
 - [ ] Day 17 - Sorting Band Names without articles
