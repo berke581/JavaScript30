@@ -15,7 +15,7 @@ This repo contains my solutions to [JavaScript30 course](https://github.com/wesb
 - [x] Day 9 - [14 Must Know Dev Tool Tricks](https://github.com/berke581/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination)
 - [x] Day 10 - [Hold Shift to Check Multiple Checkboxes](https://github.com/berke581/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
 - [x] Day 11 - [Custom HTML5 Video Player](https://github.com/berke581/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
-- [ ] Day 12 - Key Sequence Detection (KONAMI CODE)
+- [X] Day 12 - [Key Sequence Detection (KONAMI CODE)](https://github.com/berke581/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection)
 - [ ] Day 13 - Slide In on Scroll
 - [ ] Day 14 - Object and Arrays - Reference VS Copy
 - [ ] Day 15 - LocalStorage and Event Delegation
