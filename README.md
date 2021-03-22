@@ -19,7 +19,7 @@ This repo contains my solutions to [JavaScript30 course](https://github.com/wesb
 - [x] Day 13 - [Slide In on Scroll](https://github.com/berke581/JavaScript30/tree/master/13%20-%20Slide%20in%20on%20Scroll)
 - [x] Day 14 - [Object and Arrays - Reference VS Copy](https://github.com/berke581/JavaScript30/tree/master/14%20-%20JavaScript%20References%20VS%20Copying)
 - [x] Day 15 - [LocalStorage and Event Delegation](https://github.com/berke581/JavaScript30/tree/master/15%20-%20LocalStorage)
-- [ ] Day 16 - CSS Text Shadow Mouse Move Effect
+- [x] Day 16 - [CSS Text Shadow Mouse Move Effect](https://github.com/berke581/JavaScript30/tree/master/16%20-%20Mouse%20Move%20Shadow)
 - [ ] Day 17 - Sorting Band Names without articles
 - [ ] Day 18 - Tally String Times with Reduce
 - [ ] Day 19 - Unreal Webcam Fun
