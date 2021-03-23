@@ -2,7 +2,7 @@ const timesList = Array.from(document.querySelectorAll("li[data-time]"));
 
 const totalSecs = timesList.reduce((total, el) => {
   const [mins, secs] = el.dataset.time.split(":").map(parseFloat);
-  return (total += 60 * mins + secs);
+  return total + 60 * mins + secs;
 }, 0);
 
 let secondsLeft = totalSecs;
