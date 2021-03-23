@@ -21,7 +21,7 @@ This repo contains my solutions to [JavaScript30 course](https://github.com/wesb
 - [x] Day 15 - [LocalStorage and Event Delegation](https://github.com/berke581/JavaScript30/tree/master/15%20-%20LocalStorage)
 - [x] Day 16 - [CSS Text Shadow Mouse Move Effect](https://github.com/berke581/JavaScript30/tree/master/16%20-%20Mouse%20Move%20Shadow)
 - [x] Day 17 - [Sorting Band Names without articles](https://github.com/berke581/JavaScript30/tree/master/17%20-%20Sort%20Without%20Articles)
-- [ ] Day 18 - Tally String Times with Reduce
+- [x] Day 18 - [Tally String Times with Reduce](https://github.com/berke581/JavaScript30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
 - [ ] Day 19 - Unreal Webcam Fun
 - [ ] Day 20 - Native Speech Recognition
 - [ ] Day 21 - Geolocation based Speedometer and Compass
