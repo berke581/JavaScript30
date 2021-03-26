@@ -22,7 +22,7 @@ This repo contains my solutions to [JavaScript30 course](https://github.com/wesb
 - [x] Day 16 - [CSS Text Shadow Mouse Move Effect](https://github.com/berke581/JavaScript30/tree/master/16%20-%20Mouse%20Move%20Shadow)
 - [x] Day 17 - [Sorting Band Names without articles](https://github.com/berke581/JavaScript30/tree/master/17%20-%20Sort%20Without%20Articles)
 - [x] Day 18 - [Tally String Times with Reduce](https://github.com/berke581/JavaScript30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
-- [ ] Day 19 - Unreal Webcam Fun
+- [x] Day 19 - [Unreal Webcam Fun](https://github.com/berke581/JavaScript30/tree/master/19%20-%20Webcam%20Fun)
 - [ ] Day 20 - Native Speech Recognition
 - [ ] Day 21 - Geolocation based Speedometer and Compass
 - [ ] Day 22 - Follow Along Links
