@@ -24,7 +24,7 @@ This repo contains my solutions to [JavaScript30 course](https://github.com/wesb
 - [x] Day 18 - [Tally String Times with Reduce](https://github.com/berke581/JavaScript30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
 - [x] Day 19 - [Unreal Webcam Fun](https://github.com/berke581/JavaScript30/tree/master/19%20-%20Webcam%20Fun)
 - [x] Day 20 - [Native Speech Recognition](https://github.com/berke581/JavaScript30/tree/master/20%20-%20Speech%20Detection)
-- [ ] Day 21 - Geolocation based Speedometer and Compass
+- [x] Day 21 - [Geolocation based Speedometer and Compass](https://github.com/berke581/JavaScript30/tree/master/21%20-%20Geolocation)
 - [ ] Day 22 - Follow Along Links
 - [ ] Day 23 - Speech Synthesis
 - [ ] Day 24 - Sticky Nav
