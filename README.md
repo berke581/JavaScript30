@@ -25,7 +25,7 @@ This repo contains my solutions to [JavaScript30 course](https://github.com/wesb
 - [x] Day 19 - [Unreal Webcam Fun](https://github.com/berke581/JavaScript30/tree/master/19%20-%20Webcam%20Fun)
 - [x] Day 20 - [Native Speech Recognition](https://github.com/berke581/JavaScript30/tree/master/20%20-%20Speech%20Detection)
 - [x] Day 21 - [Geolocation based Speedometer and Compass](https://github.com/berke581/JavaScript30/tree/master/21%20-%20Geolocation)
-- [ ] Day 22 - Follow Along Links
+- [x] Day 22 - [Follow Along Links](https://github.com/berke581/JavaScript30/tree/master/22%20-%20Follow%20Along%20Link%20Highlighter)
 - [ ] Day 23 - Speech Synthesis
 - [ ] Day 24 - Sticky Nav
 - [ ] Day 25 - Event Capture, Propagation, Bubbling and Once
